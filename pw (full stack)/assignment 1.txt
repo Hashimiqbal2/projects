@@ -1,0 +1,19 @@
+1. What is the Internet?
+
+The Internet is a global network of computers that are connected and communicate with each other. It allows people to share information, access websites, send emails, watch videos, and much more. Think of it as a giant web that links millions of devices together, making it possible for users all around the world to stay connected and share data instantly.
+
+2. What is a web browser?
+
+A web browser is a software application that we use to access and view websites on the Internet. Some common examples include Google Chrome, Mozilla Firefox, Safari, and Microsoft Edge. When you type a website address into the browser, it goes out and fetches the information from the internet, then displays it on your screen in a way that's easy to read and interact with.
+
+3. What is a browser engine?
+
+A browser engine is the part of a web browser that reads the code of a website (like HTML, CSS, and JavaScript) and turns it into the visual page you see. It’s like the brain of the browser—it makes sure that websites are shown correctly and respond properly when you click, scroll, or type. Different browsers use different engines, such as Blink for Chrome and WebKit for Safari.
+
+4. What is a static site?
+
+A static site is a website that shows the same content to every visitor. The pages are made using fixed code (usually HTML and CSS), and they don’t change unless the developer updates them manually. Static sites are simple, fast, and often used for things like portfolios, blogs, or informational pages that don’t need to change often.
+
+5. What is a dynamic site?
+
+A dynamic site is a website that can show different content to different users or change content automatically based on user actions. It uses server-side technologies (like PHP, JavaScript, or databases) to create pages on the fly. Examples of dynamic sites include social media platforms, news websites, and e-commerce stores where the content updates often and interacts with the user.
