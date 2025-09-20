@@ -1,11 +1,11 @@
-#What are data structures, and why are they important?
+#1)What are data structures, and why are they important?
 "Data structures are ways to organize and store data in a computer so"
 " that it can be accessed and modified efficiently."
 ""
 " They are important because they provide a means to manage large amounts of data, "
 "allowing for efficient data retrieval, storage, and manipulation."
 
-#) Explain the difference between mutable and immutable data types with examples
+#2) Explain the difference between mutable and immutable data types with examples
 "Mutable data types can be changed after creation, while immutable data types cannot."
 "Examples of mutable data types include lists and dictionaries"
 "while examples of immutable data types include strings and tuples."
@@ -244,7 +244,7 @@ our_tuple=(100,200,300)
 for elements in tuple:
     print(elements)  
 
-#!@) Write a code to access the second-to-last element of the tuple ('red', 'green', 'blue', 'yellow')
+#10) Write a code to access the second-to-last element of the tuple ('red', 'green', 'blue', 'yellow')
 
 colours=('red','green','blue','yellow')
 
